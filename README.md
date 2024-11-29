@@ -2,7 +2,7 @@
 
 # Tech Stack:
 - **Languages:** Python, SQL, Bash and more.
-- **Tools:** Unittest, Pytest, Doctest, Heroku, Google Colab, Google Cloud, REST APIs and more.
+- **Tools:** Unittest, Pytest, Doctest, Jest, Heroku, Google Colab, Google Cloud, REST APIs and more.
 - **Frameworks:** Django, TensorFlow and more.
 
 ## Other Skills:
