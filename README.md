@@ -1,7 +1,7 @@
 # Hey! 😸 
 
 # Tech Stack:
-- **Languages:** Python, SQL, Bash and more.
+- **Languages:** Python, SQL, Bash, JavaScript.
 - **Tools:** Unittest, Pytest, Doctest, Jest, Heroku, Google Colab, Google Cloud, REST APIs and more.
 - **Frameworks:** Django, TensorFlow and more.
 
