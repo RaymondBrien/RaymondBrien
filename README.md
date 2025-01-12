@@ -9,16 +9,17 @@
 - Testing
 - Product development 
 
-## Other Skills:
+### Other Skills:
 - 🎨 Design: Figma, Adobe Creative Suite, CAD
-- 🎵 Sound Design/Recording: Ableton Live, Sibelius, Focusrite
+- 🎵 Sound Design/Recording: Ableton Live, Sibelius, Focusrite, Professional Musician
 - 🗣️ Deutsch | Français
 
-### I plan to learn: 
+#### I plan to learn: 
 - Swift
 
 
 ## Connect with Me!
 I love to build things with others. Let's collaborate! I'm always excited to build the next innovative idea or project.
-- Message me on:
+
+Message me on:
 - [LinkedIn](https://www.linkedin.com/in/ray-brien-97861a97/)
