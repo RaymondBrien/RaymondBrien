@@ -1,21 +1,13 @@
 # Hey! 😸 
 
-# Tech Stack:
-- **Main Languages:** Python, SQL, Bash, JavaScript 
-- **Tools I love:** Pytest, Jest, Heroku, Google Colab, Google Cloud, REST APIs and more.
-- **Frameworks:** Django, TensorFlow and more.
-
-## Top Skills: 
-- Testing
-- Product development 
+Work: software engineer in audio testing, with a love for automation and platform solutions. 
+Test automation engineer at Focusrite. 
 
 ### Other Skills:
-- 🎨 Design: Figma, Adobe Creative Suite, CAD
-- 🎵 Sound Design/Recording: Ableton Live, Sibelius, Focusrite, Professional Musician
+- 🎨 Design: Figma
+- 🎵 Sound Design/Recording: Composer, Recording Engineer, Ableton Live, Sibelius
+- 🎶 Professional musician (clarinet) 
 - 🗣️ Deutsch | Français
-
-#### I plan to learn: 
-- Swift
 
 
 ## Connect with Me!
