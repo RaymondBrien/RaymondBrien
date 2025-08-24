@@ -10,17 +10,12 @@ I am a software engineer specialising in test automation (especially hardware in
 I'm sucker for bash scripts, pytest and anything that can be automated. 
 
 ### Favorite tooling: 
-*Python-based*: 
-- Pytest, Tox, Django, Flask, Jinja, CPython
-
-*Extras*:
-- Bash, Make, Just, Ruff, UV, SQL, Typescript, React, Jest, HTML, CSS
-
-*Devops*:
-- GitHub Actions (incl architecture design and organisation-wide self-hosted solutions), Artifactory/JFrog
-
-*Agile*:
-- Jira, Slack, MS Teams
+| Category      | Tools & Technologies                                                                                         |
+|---------------|-------------------------------------------------------------------------------------------------------------|
+| **Python-based** | Pytest, Tox, Django, Flask, Jinja, CPython                                                                 |
+| **Other Tooling**        | Bash, Make, Just, Ruff, UV, SQL, Typescript, React, Jest, HTML, CSS                                       |
+| **DevOps**        | GitHub Actions (incl architecture design & organisation-wide self-hosted solutions), Artifactory/JFrog     |
+| **Agile**         | Jira, Slack, MS Teams                                                                                     |
 
 #### Extra training:
   - Agile estimation techniques
