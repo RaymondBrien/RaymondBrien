@@ -1,5 +1,5 @@
 # Hey! 😸 
-*Welcome to my personal GitHub account. For professional work, please contact me directly.*
+This is my personal GitHub — it doesn’t reflect my professional work or skills. To see what I actually build and ship to production, feel free to reach out directly.
 
 ## 👨‍💻 About Me
 
