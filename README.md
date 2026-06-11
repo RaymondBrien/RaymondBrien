@@ -9,13 +9,10 @@ Probably in the terminal...
 
 ## 🛠️ The Stack
 
-| Languages | Infrastructure | Databases | Observability | Frameworks |
-|-----------|-----------------|-----------|---------------|------------|
-| Python | Docker | PostgreSQL | TensorFlow | Django |
-| Rust | Kubernetes | Redis | OpenTelemetry | Pytest |
-| C++ | GitHub Actions | Graph/Vector | React Dashboards | Langchain |
-| TypeScript | Self-hosted CI | Document DBs | Log Analytics |
-| Bash | AWS/GCP/Azure | | Performance Profiling | MCP Servers |
+| Languages | Infrastructure | Databases | Observability, ML, Other |
+|-----------|-----------------|-----------|------------|
+| Python<br>Rust<br>C++<br>TypeScript<br>Bash | Docker<br>Kubernetes<br>GitHub Actions<br>Self-hosted CI<br>AWS/GCP/Azure | PostgreSQL<br>Redis<br>Graph/Vector<br>Document DBs | TensorFlow<br>OpenTelemetry<br>Django • React<br>Langchain • MCP Servers |
+
 
 ---
 
