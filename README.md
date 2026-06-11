@@ -1,6 +1,7 @@
 # Raymond Brien 🐈‍⬛
+💼 **Focusrite: Platform Automation**
 
-**Platform Engineer  |  Senior Backend Engineer  |  DevEx**  
+Platform and Backend Engineering  |  DevEx
 
 Probably in the terminal...
 
